@@ -1,1 +1,1 @@
-Questions Solved on LeetCode
+Questions Solved on leetcode
